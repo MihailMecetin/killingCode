@@ -1,0 +1,6 @@
+print("MATH!")
+print("Number",1111 + 22222 / 333)
+print("also number:", 100 - 25 * 3 % 4)
+print("Is it true that 3 + 2 < 5 - 7, and also that I care?")
+print(3 + 2  < 5 - 7)
+print("testing 2 > 1, 2 >= 2, 5 <= -2", 2 > 1, 2 >= 2, 5 <= -2)
